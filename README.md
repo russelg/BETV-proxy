@@ -11,7 +11,7 @@ Serves as a replacement for a BETV server. (default: pclist.zzfdi.com)
 
     1.  Get Uuid from:
 
-        > http://pclist.zzfdi.com/opsbetv/auth.action?type=1&ack=0000007400010000000000000075
+        > http://pclist.yyjbg.com/opsbetv/auth.action?type=1&ack=0000007400010000000000000075
 
     2.  Use anything to download the XML from the following URL to `chn_response.xml`. A curl example follows.
 
