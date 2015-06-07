@@ -6,6 +6,7 @@ import xmltodict
 import collections
 import operator
 
+# Channel mapping for Korean channels (mostly correct?)
 korean_channels = {
     u"CCTV5+体育赛事": "OCN",
     u"CCTV5体育频道": "JTBC",
@@ -50,9 +51,11 @@ xmldoc_cn = xmltodict.parse(open('chn_response.xml'))
 jp = xmldoc_jp["groups"]["group"]["channel"]
 chn_doc = [y for y in xmldoc_cn["channels"]["group"]]
 chn = []
+# Do some magic to flatten the chinese channel XML.
 reduce(operator.iadd, (x["channel"]
        for x in chn_doc if "channel" in x), chn)
 
+# XML to be constructed
 dict_xml = {
     "channels": {
         "@version": "",
@@ -79,7 +82,7 @@ dict_xml = {
     }
 }
 
-
+# Add all the Japanese channels
 for idx, channel in enumerate(jp):
     formed_channel = collections.OrderedDict((
         ("name", channel["name"]),
@@ -94,6 +97,7 @@ for idx, channel in enumerate(jp):
     ))
     dict_xml["channels"]["group"][0]["channel"].append(formed_channel)
 
+# Parse the chinese XML for the Korean channels
 for idx, channel in enumerate(chn):
     if not isinstance(channel, unicode):
         if korean_channels[channel["name"]] != "":
@@ -102,6 +106,8 @@ for idx, channel in enumerate(chn):
             dict_xml["channels"]["group"][1]["channel"].append(channel)
 
 
+# Replaces the default URL with an alternative, since
+# the host file will not allow the main domain to be reached. (we're using it)
 def replace_url(request):
     headers = {}
     for x in dict(request.headers):
@@ -114,6 +120,7 @@ def replace_url(request):
     return {"headers": headers, "url": url}
 
 
+# Just plain forward auth request.
 @get('/opsbetv/auth.action')
 def auth_handler():
     info = replace_url(request)
@@ -124,6 +131,7 @@ def auth_handler():
     return r.text
 
 
+# Respond with our own XML for the channel list.
 @get('/opsbetv/tv.action')
 def channel_list():
     info = replace_url(request)
@@ -131,6 +139,7 @@ def channel_list():
     return xmltodict.unparse(dict_xml)
 
 
+# Forward this request (useless it seems)
 @get('/opsbetv/tvitem.action')
 def channel_list1():
     info = replace_url(request)
@@ -141,6 +150,7 @@ def channel_list1():
     return r.text
 
 
+# Also useless.
 @get('/opsbetv/pcad.action')
 def channel_list1():
     info = replace_url(request)
