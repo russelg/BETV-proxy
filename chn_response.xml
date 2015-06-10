@@ -1,614 +1,597 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
+
 <channels version="" info_time="" adsurl="">
-    <group id="1" type="1" name="体育赛事" description="体育赛事" deploy="0">
-        <channel>
-            <name>
-                CCTV5+体育赛事
-            </name>
-            <id>68</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://FCVo26wESS6jUnyvcsor6A==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                CCTV5体育频道
-            </name>
-            <id>51</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://ASJVXNuCGh0QQoZqW4GjQQ==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                STAR SPORTS
-            </name>
-            <id>76</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://6PEo2nmE3UsKfHTVRRleSA==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                CCTV风云足球
-            </name>
-            <id>71</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://lqikLfLaQneSEz1klyP/AQ==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                欧洲足球
-            </name>
-            <id>52</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://Uy77ZTmx9GGNeVbZY75nIA==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                劲爆体育
-            </name>
-            <id>53</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://h/DrjJCXqAUM7+l52UwGdg==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                高尔夫网球
-            </name>
-            <id>55</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://t37QfOJanhEBbvhB3vFLAw==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-    </group>
-    <group id="2" type="1" name="新闻资讯" description="新闻资讯" deploy="0">
-        <channel>
-            <name>
-                CCTV13新闻频道
-            </name>
-            <id>75</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://yNJpug1+H8L9a0zxR86QxA==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                鳳凰衛視資訊臺
-            </name>
-            <id>41</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp:///AivgdiA/a1rBuDvQV/DgQ==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                鳳凰衛視中文臺
-            </name>
-            <id>42</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://pPk0AgytPaQYVKtNDd25cw==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                CNN
-            </name>
-            <id>58</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://ZNsuT+BwqrqPhGYMf9QXuA==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                BBC
-            </name>
-            <id>57</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://ZWurZzFI8XBO1T3w2bj/xQ==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-    </group>
-    <group id="4" type="1" name="娱乐综合" description="娱乐综合" deploy="0">
-        <channel>
-            <name>
-                浙江卫视高清
-            </name>
-            <id>49</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://4kkAVHtKzrT0DTnkUgEjHg==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                CCTV1综合频道
-            </name>
-            <id>43</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://mxKgnkd+RvMV/LxboYKbVg==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                湖南卫视高清
-            </name>
-            <id>44</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://Omt4XUbOKu3AKshWJdstjw==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                江苏卫视高清
-            </name>
-            <id>45</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://C/mPTsWQxiyGy8mhZYlZpw==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                CCTV3综艺频道
-            </name>
-            <id>62</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://MFoog/w8gRV2cRv8L+d1ug==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                东方卫视高清
-            </name>
-            <id>47</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://u7uz6q0uAvdZR8hxhVi4nA==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                北京卫视高清
-            </name>
-            <id>46</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://aGfQmklvs2CpViJqbsRR3g==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                广东卫视高清
-            </name>
-            <id>48</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://2nbePy0hy4Z/qPaXPm0zeA==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                黑龙江卫视高清
-            </name>
-            <id>50</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://A7dhJfaQjb853BA/v08qrw==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                CCTV11戏曲频道
-            </name>
-            <id>73</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://5kqRE41uIKEodkUJN00xMw==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-    </group>
-    <group id="5" type="1" name="热播影剧" description="热播影剧" deploy="0">
-        <channel>
-            <name>
-                浙江卫视高清
-            </name>
-            <id>49</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://4kkAVHtKzrT0DTnkUgEjHg==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                CCTV1综合频道
-            </name>
-            <id>43</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://mxKgnkd+RvMV/LxboYKbVg==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                湖南卫视高清
-            </name>
-            <id>44</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://Omt4XUbOKu3AKshWJdstjw==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                CCTV6电影频道
-            </name>
-            <id>63</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://esA9S2l5e+t1j5av434pLg==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                HBO
-            </name>
-            <id>61</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://szDCxijbnjRAs5tDyiwrGg==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-    </group>
-    <group id="6" type="1" name="科普教育" description="科普教育" deploy="0">
-        <channel>
-            <name>
-                CCTV4中文国际频道
-            </name>
-            <id>56</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp:///VJLWXIGHBC+lEp9z/Rdpg==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                國家地理
-            </name>
-            <id>59</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://7hr8VkS5rwgXyaQ408JdnQ==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                探索頻道
-            </name>
-            <id>60</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://n+yy8gVmFcVeB9qLUv9jGQ==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                CCTV10科教频道
-            </name>
-            <id>72</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://oUlkofYRl6k1eJOm01Oc5A==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                CCTV12社会与法频道
-            </name>
-            <id>74</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://s5IK7UZtXGhX+TA4il37uw==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-    </group>
-    <group id="3" type="1" name="股票财经" description="股票财经" deploy="0">
-        <channel>
-            <name>
-                CCTV2财经频道
-            </name>
-            <id>54</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://GPf3z3qlHO6bOH4gRsH2Vg==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-        <channel>
-            <name>
-                第一财经
-            </name>
-            <id>69</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://z77hUcA356PYP2aT9Ww6/w==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-    </group>
-    <group id="7" type="1" name="卡通动漫" description="卡通动漫" deploy="0">
-        <channel>
-            <name>
-                CCTV14少儿频道
-            </name>
-            <id>40</id>
-            <status>1</status>
-            <vip>0</vip>
-            <sop_address>
-                <item>
-                    gvppp://K5NmU3FIWP89q7XaFO5AyA==
-                </item>
-            </sop_address>
-            <description>
-            </description>
-            <logo>
-            </logo>
-        </channel>
-    </group>
-    <group id="8" type="1" name="宗教文化" description="宗教文化" deploy="0">
-    </group>
+	
+	        <group id="1" type="1"  name="体育赛事" description="体育赛事"  deploy="0">
+	                    
+		                	<channel>
+		                	   	    <name><![CDATA[CCTV5+体育赛事]]></name>
+		                	        <id>68</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://FCVo26wESS6jUnyvcsor6A==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[CCTV5体育频道]]></name>
+		                	        <id>51</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://ASJVXNuCGh0QQoZqW4GjQQ==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[STAR SPORTS]]></name>
+		                	        <id>76</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://6PEo2nmE3UsKfHTVRRleSA==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[CCTV风云足球]]></name>
+		                	        <id>71</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://lqikLfLaQneSEz1klyP/AQ==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[欧洲足球]]></name>
+		                	        <id>52</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://Uy77ZTmx9GGNeVbZY75nIA==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[劲爆体育]]></name>
+		                	        <id>53</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://h/DrjJCXqAUM7+l52UwGdg==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[高尔夫网球]]></name>
+		                	        <id>55</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://t37QfOJanhEBbvhB3vFLAw==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+	        </group>
+	
+	        <group id="2" type="1"  name="新闻资讯" description="新闻资讯"  deploy="0">
+	                    
+		                	<channel>
+		                	   	    <name><![CDATA[CCTV13新闻频道]]></name>
+		                	        <id>75</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://yNJpug1+H8L9a0zxR86QxA==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[鳳凰衛視資訊臺]]></name>
+		                	        <id>41</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp:///AivgdiA/a1rBuDvQV/DgQ==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[鳳凰衛視中文臺]]></name>
+		                	        <id>42</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://pPk0AgytPaQYVKtNDd25cw==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[CNN]]></name>
+		                	        <id>58</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://ZNsuT+BwqrqPhGYMf9QXuA==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[BBC]]></name>
+		                	        <id>57</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://ZWurZzFI8XBO1T3w2bj/xQ==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+	        </group>
+	
+	        <group id="4" type="1"  name="娱乐综合" description="娱乐综合"  deploy="0">
+	                    
+		                	<channel>
+		                	   	    <name><![CDATA[浙江卫视高清]]></name>
+		                	        <id>49</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://4kkAVHtKzrT0DTnkUgEjHg==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[CCTV1综合频道]]></name>
+		                	        <id>43</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://mxKgnkd+RvMV/LxboYKbVg==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[湖南卫视高清]]></name>
+		                	        <id>44</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://Omt4XUbOKu3AKshWJdstjw==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[江苏卫视高清]]></name>
+		                	        <id>45</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://C/mPTsWQxiyGy8mhZYlZpw==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[CCTV3综艺频道]]></name>
+		                	        <id>62</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://MFoog/w8gRV2cRv8L+d1ug==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[东方卫视高清]]></name>
+		                	        <id>47</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://u7uz6q0uAvdZR8hxhVi4nA==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[北京卫视高清]]></name>
+		                	        <id>46</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://aGfQmklvs2CpViJqbsRR3g==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[广东卫视高清]]></name>
+		                	        <id>48</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://2nbePy0hy4Z/qPaXPm0zeA==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[黑龙江卫视高清]]></name>
+		                	        <id>50</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://A7dhJfaQjb853BA/v08qrw==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[CCTV11戏曲频道]]></name>
+		                	        <id>73</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://5kqRE41uIKEodkUJN00xMw==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+	        </group>
+	
+	        <group id="5" type="1"  name="热播影剧" description="热播影剧"  deploy="0">
+	                    
+		                	<channel>
+		                	   	    <name><![CDATA[浙江卫视高清]]></name>
+		                	        <id>49</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://4kkAVHtKzrT0DTnkUgEjHg==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[CCTV1综合频道]]></name>
+		                	        <id>43</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://mxKgnkd+RvMV/LxboYKbVg==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[湖南卫视高清]]></name>
+		                	        <id>44</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://Omt4XUbOKu3AKshWJdstjw==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[CCTV6电影频道]]></name>
+		                	        <id>63</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://esA9S2l5e+t1j5av434pLg==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[HBO]]></name>
+		                	        <id>61</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://szDCxijbnjRAs5tDyiwrGg==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+	        </group>
+	
+	        <group id="6" type="1"  name="科普教育" description="科普教育"  deploy="0">
+	                    
+		                	<channel>
+		                	   	    <name><![CDATA[CCTV4中文国际频道]]></name>
+		                	        <id>56</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp:///VJLWXIGHBC+lEp9z/Rdpg==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[國家地理]]></name>
+		                	        <id>59</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://7hr8VkS5rwgXyaQ408JdnQ==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[探索頻道]]></name>
+		                	        <id>60</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://n+yy8gVmFcVeB9qLUv9jGQ==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[CCTV10科教频道]]></name>
+		                	        <id>72</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://oUlkofYRl6k1eJOm01Oc5A==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[CCTV12社会与法频道]]></name>
+		                	        <id>74</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://s5IK7UZtXGhX+TA4il37uw==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+	        </group>
+	
+	        <group id="3" type="1"  name="股票财经" description="股票财经"  deploy="0">
+	                    
+		                	<channel>
+		                	   	    <name><![CDATA[CCTV2财经频道]]></name>
+		                	        <id>54</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://GPf3z3qlHO6bOH4gRsH2Vg==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+		                	<channel>
+		                	   	    <name><![CDATA[第一财经]]></name>
+		                	        <id>69</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://z77hUcA356PYP2aT9Ww6/w==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+	        </group>
+	
+	        <group id="7" type="1"  name="卡通动漫" description="卡通动漫"  deploy="0">
+	                    
+		                	<channel>
+		                	   	    <name><![CDATA[CCTV14少儿频道]]></name>
+		                	        <id>40</id>
+									<status>1</status>
+		                	   	    <vip>0</vip>
+									<sop_address>
+										
+			       							
+										  		<item><![CDATA[gvppp://K5NmU3FIWP89q7XaFO5AyA==]]></item>
+										    
+										 
+									</sop_address>
+									<description><![CDATA[]]></description>
+									<logo><![CDATA[]]></logo>
+		                	</channel>
+	                	
+	        </group>
+	
+	        <group id="8" type="1"  name="宗教文化" description="宗教文化"  deploy="0">
+	                    
+	        </group>
+	
 </channels>

@@ -1,137 +1,137 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <groups info="">
     <group id="1" isGroup="0" name="nijishow" description="nijishow" deploy="1">
         <channel>
             <id>9100</id>
             <resId>8</resId>
-            <name>テレビ東京</name>
+            <name><![CDATA[テレビ東京]]></name>
             <status>1</status>
             <isCharge>0</isCharge>
             <sop_address>
-                <item>gvppp://ZNsuT+BwqrqPhGYMf9QXuA==</item>
+                <item><![CDATA[gvppp://ZNsuT+BwqrqPhGYMf9QXuA==]]></item>
             </sop_address>
-            <description>20150130</description>
-            <logo></logo>
+            <description><![CDATA[20150130]]></description>
+            <logo><![CDATA[]]></logo>
         </channel>
         <channel>
             <id>9069</id>
             <resId>8</resId>
-            <name>NHK総合</name>
+            <name><![CDATA[NHK総合]]></name>
             <status>1</status>
             <isCharge>0</isCharge>
             <sop_address>
-                <item>gvppp://6PEo2nmE3UsKfHTVRRleSA==</item>
+                <item><![CDATA[gvppp://6PEo2nmE3UsKfHTVRRleSA==]]></item>
             </sop_address>
-            <description>20150130</description>
-            <logo></logo>
+            <description><![CDATA[20150130]]></description>
+            <logo><![CDATA[]]></logo>
         </channel>
         <channel>
             <id>9070</id>
             <resId>8</resId>
-            <name>日本テレビ</name>
+            <name><![CDATA[日本テレビ]]></name>
             <status>1</status>
             <isCharge>0</isCharge>
             <sop_address>
-                <item>gvppp://szDCxijbnjRAs5tDyiwrGg==</item>
+                <item><![CDATA[gvppp://szDCxijbnjRAs5tDyiwrGg==]]></item>
             </sop_address>
-            <description>20150130</description>
-            <logo></logo>
+            <description><![CDATA[20150130]]></description>
+            <logo><![CDATA[]]></logo>
         </channel>
         <channel>
             <id>9071</id>
             <resId>8</resId>
-            <name>NHK教育</name>
+            <name><![CDATA[NHK教育]]></name>
             <status>1</status>
             <isCharge>0</isCharge>
             <sop_address>
-                <item>gvppp://esA9S2l5e+t1j5av434pLg==</item>
+                <item><![CDATA[gvppp://esA9S2l5e+t1j5av434pLg==]]></item>
             </sop_address>
-            <description>20150130</description>
-            <logo></logo>
+            <description><![CDATA[20150130]]></description>
+            <logo><![CDATA[]]></logo>
         </channel>
         <channel>
             <id>9097</id>
             <resId>8</resId>
-            <name>TBS</name>
+            <name><![CDATA[TBS]]></name>
             <status>1</status>
             <isCharge>0</isCharge>
             <sop_address>
-                <item>gvppp://MFoog/w8gRV2cRv8L+d1ug==</item>
+                <item><![CDATA[gvppp://MFoog/w8gRV2cRv8L+d1ug==]]></item>
             </sop_address>
-            <description>20150130</description>
-            <logo></logo>
+            <description><![CDATA[20150130]]></description>
+            <logo><![CDATA[]]></logo>
         </channel>
         <channel>
             <id>9098</id>
             <resId>8</resId>
-            <name>フジテレビ</name>
+            <name><![CDATA[フジテレビ]]></name>
             <status>1</status>
             <isCharge>0</isCharge>
             <sop_address>
-                <item>gvppp://7hr8VkS5rwgXyaQ408JdnQ==</item>
+                <item><![CDATA[gvppp://7hr8VkS5rwgXyaQ408JdnQ==]]></item>
             </sop_address>
-            <description>20150130</description>
-            <logo></logo>
+            <description><![CDATA[20150130]]></description>
+            <logo><![CDATA[]]></logo>
         </channel>
         <channel>
             <id>9099</id>
             <resId>8</resId>
-            <name>テレビ朝日</name>
+            <name><![CDATA[テレビ朝日]]></name>
             <status>1</status>
             <isCharge>0</isCharge>
             <sop_address>
-                <item>gvppp://n+yy8gVmFcVeB9qLUv9jGQ==</item>
+                <item><![CDATA[gvppp://n+yy8gVmFcVeB9qLUv9jGQ==]]></item>
             </sop_address>
-            <description>20150130</description>
-            <logo></logo>
+            <description><![CDATA[20150130]]></description>
+            <logo><![CDATA[]]></logo>
         </channel>
         <channel>
             <id>9205</id>
             <resId>8</resId>
-            <name>テレビ大阪</name>
+            <name><![CDATA[テレビ大阪]]></name>
             <status>1</status>
             <isCharge>0</isCharge>
             <sop_address>
-                <item>gvppp://4is8MNl/YOat2OgBdDQMsQ==</item>
+                <item><![CDATA[gvppp://4is8MNl/YOat2OgBdDQMsQ==]]></item>
             </sop_address>
-            <description>20150130</description>
-            <logo></logo>
+            <description><![CDATA[20150130]]></description>
+            <logo><![CDATA[]]></logo>
         </channel>
         <channel>
             <id>9206</id>
             <resId>8</resId>
-            <name>読売テレビ</name>
+            <name><![CDATA[読売テレビ]]></name>
             <status>1</status>
             <isCharge>0</isCharge>
             <sop_address>
-                <item>gvppp://r5VInC5u0bKwAFb1uaN9PA==</item>
+                <item><![CDATA[gvppp://r5VInC5u0bKwAFb1uaN9PA==]]></item>
             </sop_address>
-            <description>20150130</description>
-            <logo></logo>
+            <description><![CDATA[20150130]]></description>
+            <logo><![CDATA[]]></logo>
         </channel>
         <channel>
             <id>9207</id>
             <resId>8</resId>
-            <name>J sports 1</name>
+            <name><![CDATA[J sports 1]]></name>
             <status>1</status>
             <isCharge>0</isCharge>
             <sop_address>
-                <item>gvppp://KsFUOl5Wd4IuWHM80a0X2A==</item>
+                <item><![CDATA[gvppp://KsFUOl5Wd4IuWHM80a0X2A==]]></item>
             </sop_address>
-            <description>20150130</description>
-            <logo></logo>
+            <description><![CDATA[20150130]]></description>
+            <logo><![CDATA[]]></logo>
         </channel>
         <channel>
             <id>9208</id>
             <resId>8</resId>
-            <name>関西テレビ</name>
+            <name><![CDATA[関西テレビ]]></name>
             <status>1</status>
             <isCharge>0</isCharge>
             <sop_address>
-                <item>gvppp://bGD1d5kfyrSg7u3AnxxK1Q==</item>
+                <item><![CDATA[gvppp://bGD1d5kfyrSg7u3AnxxK1Q==]]></item>
             </sop_address>
-            <description>20150130</description>
-            <logo></logo>
+            <description><![CDATA[20150130]]></description>
+            <logo><![CDATA[]]></logo>
         </channel>
     </group>
 </groups>
